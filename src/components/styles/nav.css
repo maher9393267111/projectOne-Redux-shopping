@@ -1,0 +1,57 @@
+ .logoLink{
+    color: #0d6efd;
+    text-decoration: underline;
+    display: flex;
+    justify-content: inherit;
+    text-decoration: none;
+
+    color: black;
+
+
+
+ }
+
+ .logo-nav{
+
+width:60px;
+
+
+ }
+
+ .logoLink > p {
+position:relative;
+
+top:10px;
+
+
+ }
+
+
+ .nav-links{
+
+position: relative;
+
+left:50%;
+
+
+ }
+
+ .shopping-icon{
+
+width:100px;
+
+margin-left:40px
+
+
+
+ }
+
+
+.shopping-icon > a {
+
+text-decoration:none;
+color: red;
+
+
+
+}
